@@ -1,1 +1,2 @@
-# Capstone
+# Capstone: Predicting NFL play calls.
+
